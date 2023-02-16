@@ -1,0 +1,62 @@
+.input-alert-error{
+    background-color:rgb(216, 136, 149);
+    border:1px solid red;
+}
+body{
+    background-color:rgb(232, 202, 159);
+    font-family: cursive; 
+    color:rgb(83, 24, 3);
+}
+p{
+    text-align: center;
+    font-weight: small;
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+h2{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+
+    
+}
+    
+
+.topnav-centered{
+    position: relative;
+    background-color: burlywood;
+    overflow: hidden;
+}
+.topnav-centered a {
+    float: left;
+    color:rgb(62, 44, 21);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+
+    
+
+.topnav-centered a:hover{
+    background-color:chocolate;
+    color: black;
+}
+div.form-container{
+
+}
+div.form-control{
+    display: flex;
+    flex-direction: flex;
+    justify-content: center;
+    margin-left: auto;
+    width: 30%;
+
+
+}
